@@ -26,11 +26,13 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 50px;
   font-style: oblique;
+  text-shadow: white 3px;
 }
 
 img {
   height: 50%;
   width: 50%;
+  box-shadow: 0 0 8px 3px;
 }
 
 .foo {
